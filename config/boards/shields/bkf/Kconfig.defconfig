@@ -1,0 +1,6 @@
+if SHIELD_BKF
+
+config ZMK_KEYBOARD_NAME
+    default "Base Kit Forty"
+
+endif
